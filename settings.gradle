@@ -1,0 +1,4 @@
+rootProject.name = 'ru.netology'
+include 'db'
+include 'service'
+include 'api'
